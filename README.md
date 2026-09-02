@@ -24,8 +24,8 @@ Based on the distance 7 leds light up progressively to show the proximity to the
 ![Wiring Schematic](proxsensorschematic.png)
 
 
-### Video
-
+### Video demonstration
+![vid](Demonstration.gif)
 
 ### See the code [here](code.ino)
 
