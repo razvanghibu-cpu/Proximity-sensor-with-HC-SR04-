@@ -21,6 +21,6 @@ Based on the distance 7 leds light up progressively to show the proximity to the
 - Jumper Wires(~15)
 
 ### Wiring schematic:
-![Wiring Schematic](proximitysensorschematic.png)
+![Wiring Schematic](proxsensorschematic.png)
 
-  
+
