@@ -13,3 +13,11 @@ Based on the distance 7 leds light up progressively to show the proximity to the
 | ≤3 cm | The red pair lights up, indicating the object is close to making contact | 🔴🟡🟡🟢🟡🟡🔴 |
 
 ### Components and wiring
+- Arduino Uno
+- HC-SR04 ultrasonic sensor
+- 7 leds(2 red,4 yellow,1 green)
+- 7 220Ω resistor
+- 2 breadboards
+- Jumper Wires(~15)
+
+  
